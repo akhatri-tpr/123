@@ -6,4 +6,4 @@ provider "aws" {
 module "a" {
     source = "../../module"
 }
-
+done
