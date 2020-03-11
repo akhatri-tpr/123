@@ -6,5 +6,8 @@ provider "aws" {
 module "a" {
     source = "../../module"
 }
-Latest file0420
-Latest File 0426
+<<<<<<< HEAD
+Latest file0426
+=======
+Latest file0425
+>>>>>>> d90e01aa83fab1498ee8b78da77862811adb73ac
