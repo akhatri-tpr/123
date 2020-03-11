@@ -6,14 +6,4 @@ provider "aws" {
 module "a" {
     source = "../../module"
 }
-Latest file0432
-abc
-efg
-hihj
-19
-9994545
-111
-123
-231
-343
-555
+ok
