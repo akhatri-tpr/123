@@ -10,8 +10,4 @@ Latest file0432
 abc
 efg
 hihj
-9994545
-111
-123
-231
-343
+19
