@@ -6,3 +6,5 @@ provider "aws" {
 module "a" {
     source = "../../module"
 }
+
+edit
