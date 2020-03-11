@@ -7,5 +7,4 @@ module "a" {
     source = "../../module"
 }
 Latest file0432
-abc
-efg
+
