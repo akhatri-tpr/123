@@ -6,6 +6,5 @@ provider "aws" {
 module "a" {
     source = "../../module"
 }
-<<<<<<< HEAD
 Latest file0430
 
